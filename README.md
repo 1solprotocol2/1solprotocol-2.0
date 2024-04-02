@@ -29,8 +29,7 @@ So we decided to create 1Sol.
 
 ## Contacts
 
-- <b>Website</b>: [https://1sol.io](https://1sol.io)
-- <b>Twitter</b>: [https://twitter.com/1solProtocol](https://twitter.com/1solProtocol)
-- <b>Telegram</b>: [https://t.me/onesolcommunity](https://t.me/onesolcommunity)
-- <b>Discord</b>: [https://discord.gg/eR7VWCnAqb](https://discord.gg/eR7VWCnAqb)
-- <b>Medium</b>: [https://medium.com/@1solProtocol](https://medium.com/@1solProtocol)
+- <b>Website</b>: [https://1sol.co](https://1sol.co)
+- <b>Twitter</b>: [https://twitter.com/onesolofficial](https://twitter.com/onesolofficial)
+- <b>Telegram</b>: [https://t.me/onesolofcommunity](https://t.me/onesolofcommunity)
+- <b>Medium</b>: [https://medium.com/@1sol_official_community](https://medium.com/@1sol_official_community)
